@@ -1,0 +1,1 @@
+/home/cxiao7/research/speech2text/scripts/t2t/utils/split_scp.pl

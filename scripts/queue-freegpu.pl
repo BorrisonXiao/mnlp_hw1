@@ -1,0 +1,1 @@
+/home/cxiao7/research/espnet/egs2/wsj/asr1/utils/parallel/queue-freegpu.pl
